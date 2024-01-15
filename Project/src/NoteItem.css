@@ -1,0 +1,14 @@
+.card-title,
+.card-text {
+  font-family: "Handlee", cursive;
+}
+.card-title {
+  font-weight: 600;
+  font-size: larger;
+}
+.card-text {
+  font-size: larger;
+}
+.text-body-secondary {
+  font-size: 14px;
+}
